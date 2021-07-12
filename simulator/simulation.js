@@ -971,11 +971,8 @@ function showFEO () {
 
   var sliderValueF = document.getElementById ('myRangeF').value;
   console.log (sliderValueF);
-  if (
-    sliderValueF >= 20 &&
-    sliderValueF <= 30 &&
-    (eyeopening >= 185 && eyeopening <= 198)
-  ) {
+  if (eyeopening >= 180 && eyeopening <= 205)
+    {
     console.log (sliderValueF);
     console.log (Math.abs (num2FEO - num1FEO));
     document.getElementById ('demoFEO').innerHTML =
