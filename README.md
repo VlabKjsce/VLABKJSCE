@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a virtual laboratory project undertaken for KJ Somaiya College of Engineering
 
 <!--
 **VlabKjsce/VLABKJSCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
